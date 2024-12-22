@@ -1,0 +1,3 @@
+PORT=7878
+REPERTOIRE=C:/Users/Mamy Tsiferana/Documents/ITU_L2/reseaux/Socket/www
+PHP=oui
